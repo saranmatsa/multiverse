@@ -1,0 +1,42 @@
+{
+  "decoherence_times": {
+    "dust_grain": {
+      "mass_kg": 1e-17,
+      "superposition_size_m": 1e-06,
+      "temperature_K": 300,
+      "friction_gamma_s": 1000.0,
+      "tau_D_seconds": 1.34e-22
+    },
+    "1mg_mirror": {
+      "mass_kg": 1e-06,
+      "superposition_size_m": 0.001,
+      "temperature_K": 300,
+      "friction_gamma_s": 1000.0,
+      "tau_D_seconds": 1.34e-39
+    }
+  },
+  "born_rule_analysis": {
+    "deutsch_wallace": {
+      "approach": "decision_theory + envariance",
+      "circularity_concern": "assumes probabilities to derive probabilities",
+      "status": "attempts derivation but assumes rationality axioms"
+    },
+    "zurek_envariance": {
+      "approach": "unitary_evolution + system_environment_splitting",
+      "problem": "derivation depends on preferred basis (decoherence)",
+      "status": "requires system to split into equal-weight branches"
+    },
+    "carroll_sebens": {
+      "approach": "self_locating_uncertainty",
+      "problem": "assumes Born rule credences already",
+      "status": "question-begging"
+    }
+  },
+  "probability_meaning": [
+    "1. Frequency in many runs: But all outcomes occur in MWI - no \"many runs\"",
+    "2. Subjective degree of belief: But why Born rule specifically?",
+    "3. Decision-theoretic: Deutsch-Wallace attempts this but assumes rationality axioms",
+    "4. envariance (Zurek): Derives Born rule from unitary structure alone",
+    "  Counter: Requires system to split into equal-weight branches (assumes Born rule)"
+  ]
+}
