@@ -1,0 +1,27 @@
+{
+  "holographic_bounds": {
+    "bekenstein_bound": "S <= 2*pi*E*R / (hbar*c)",
+    "de_sitter_entropy": "S_dS = 3*pi / Lambda (our universe)",
+    "our_universe_bits": "~10^122 bits (from de Sitter entropy)",
+    "planck_area": "A/4 in Planck units (holographic principle)"
+  },
+  "landscape_information": {
+    "vacua_count": "~10^500 (string theory landscape)",
+    "our_universe_bits": 100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,
+    "information_overflow": "10^500 >> 10^122",
+    "ratio": "10^(500-122) = 10^378 times more vacua than bits"
+  },
+  "computable_universe_hypothesis": {
+    "cuh_restriction": "Only computable mathematical structures exist",
+    "problem": "Why only computable? Arbitrary restriction",
+    "solomonoff_induction": "Weight structures by 2^(-K) where K = Kolmogorov complexity",
+    "problem_language": "Language-dependent (choice of universal Turing machine)",
+    "problem_uncomputable": "Solomonoff induction is uncomputable"
+  },
+  "level_iv_status": {
+    "falsifiability": "Fundamentally unfalsifiable - no observation can contradict \"all math exists\"",
+    "science_status": "Not accepted as scientific theory by mainstream physics",
+    "philosophy_status": "Mathematical Platonism + ontological commitment",
+    "category_error": "Map is not territory - mathematics is language/model, not physical reality"
+  }
+}
