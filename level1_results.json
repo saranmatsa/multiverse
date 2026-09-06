@@ -1,0 +1,8 @@
+{
+  "particle_horizon_Gly": 45.68,
+  "expected": 46.5,
+  "integral_error": 5.92e-11,
+  "duplicate_distance_exponent": 10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,
+  "our_distance_meters": 4.5e+17,
+  "ratio_description": "Duplicates are unimaginably far beyond particle horizon"
+}
